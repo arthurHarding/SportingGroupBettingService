@@ -31,6 +31,7 @@
     ".NETCoreApp,Version=v3.1": {
       "SportingGroupBettingService/1.0.0": {
         "dependencies": {
+          "LiteDB": "5.0.12",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.11.1",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -320,6 +321,17 @@
         },
         "compile": {
           "SportingGroupBettingService.dll": {}
+        }
+      },
+      "LiteDB/5.0.12": {
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "assemblyVersion": "5.0.12.0",
+            "fileVersion": "5.0.12.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {}
         }
       },
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.11.1": {},
@@ -2022,6 +2034,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "LiteDB/5.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HaOjSIGS9BRm7dw42qcHd5NGYl5wdjsFB31pImt3QQNLKUNEmRAr7ADos5VsujwBc9c4otJgb+G6NA4MlzKyAw==",
+      "path": "litedb/5.0.12",
+      "hashPath": "litedb.5.0.12.nupkg.sha512"
     },
     "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.11.1": {
       "type": "package",

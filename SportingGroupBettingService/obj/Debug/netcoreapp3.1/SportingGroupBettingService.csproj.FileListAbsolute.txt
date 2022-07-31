@@ -6,7 +6,7 @@ C:\My Code\SportingGroupBettingService\SportingGroupBettingService\bin\Debug\net
 C:\My Code\SportingGroupBettingService\SportingGroupBettingService\bin\Debug\netcoreapp3.1\SportingGroupBettingService.runtimeconfig.dev.json
 C:\My Code\SportingGroupBettingService\SportingGroupBettingService\bin\Debug\netcoreapp3.1\SportingGroupBettingService.dll
 C:\My Code\SportingGroupBettingService\SportingGroupBettingService\bin\Debug\netcoreapp3.1\SportingGroupBettingService.pdb
-C:\My Code\SportingGroupBettingService\SportingGroupBettingService\obj\Debug\netcoreapp3.1\SportingGroupBettingService.csproj.AssemblyReference.cache
+C:\My Code\SportingGroupBettingService\SportingGroupBettingService\bin\Debug\netcoreapp3.1\LiteDB.dll
 C:\My Code\SportingGroupBettingService\SportingGroupBettingService\obj\Debug\netcoreapp3.1\SportingGroupBettingService.GeneratedMSBuildEditorConfig.editorconfig
 C:\My Code\SportingGroupBettingService\SportingGroupBettingService\obj\Debug\netcoreapp3.1\SportingGroupBettingService.AssemblyInfoInputs.cache
 C:\My Code\SportingGroupBettingService\SportingGroupBettingService\obj\Debug\netcoreapp3.1\SportingGroupBettingService.AssemblyInfo.cs
@@ -16,6 +16,7 @@ C:\My Code\SportingGroupBettingService\SportingGroupBettingService\obj\Debug\net
 C:\My Code\SportingGroupBettingService\SportingGroupBettingService\obj\Debug\netcoreapp3.1\staticwebassets\SportingGroupBettingService.StaticWebAssets.xml
 C:\My Code\SportingGroupBettingService\SportingGroupBettingService\obj\Debug\netcoreapp3.1\scopedcss\bundle\SportingGroupBettingService.styles.css
 C:\My Code\SportingGroupBettingService\SportingGroupBettingService\obj\Debug\netcoreapp3.1\SportingGroupBettingService.RazorTargetAssemblyInfo.cache
+C:\My Code\SportingGroupBettingService\SportingGroupBettingService\obj\Debug\netcoreapp3.1\SportingGroupBettingService.csproj.CopyComplete
 C:\My Code\SportingGroupBettingService\SportingGroupBettingService\obj\Debug\netcoreapp3.1\SportingGroupBettingService.dll
 C:\My Code\SportingGroupBettingService\SportingGroupBettingService\obj\Debug\netcoreapp3.1\SportingGroupBettingService.pdb
 C:\My Code\SportingGroupBettingService\SportingGroupBettingService\obj\Debug\netcoreapp3.1\SportingGroupBettingService.genruntimeconfig.cache

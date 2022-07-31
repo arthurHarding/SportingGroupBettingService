@@ -7,17 +7,17 @@ namespace SportingGroupBettingService.Models
 {
       public class Bet
       {
-            public enum BetResult
+            public enum BetStatus
             {
                   Undecided,
                   Won,
-                  Lost,
-                  Invalid
+                  Lost
             }
 
             public int Id { get; set; }
             public DateTime DateTimePlaced { get; set; }
-            public BetResult Result { get; set; }
+            public BetStatus Result { get; set; }
+            public double TotalProfitLoss { get; set; }
             public bool Open { get; set; }
       }
 }

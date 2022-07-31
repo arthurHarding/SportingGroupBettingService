@@ -19,5 +19,6 @@ namespace SportingGroupBettingService.Models
             public int Team1Id { get; set; }
             public int Team2Id { get; set; }
             public int WinningTeamId { get; set; }
+            public List<FixtureOdds> Odds { get; set; }
       }
 }
