@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "twTBA6jHobQf9N9h/f8lzHOObmazFboNZJoxZoHQGflyuXINFmJWIrJbF0wNr/k7Pg1tipLVjYp3w4kQ1inatA==",
+  "success": true,
+  "projectFilePath": "C:\\My Code\\SportingGroupBettingService\\SportingGroupBettingService\\SportingGroupBettingService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aharding\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
