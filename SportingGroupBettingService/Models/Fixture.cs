@@ -7,5 +7,17 @@ namespace SportingGroupBettingService.Models
 {
       public class Fixture
       {
+            public enum AvailableSports
+            {
+                  Squash,
+                  Tennis
+            }
+
+            public int Id { get; set; }
+            public AvailableSports Sport { get; set; }
+            public string Title { get; set; }
+            public int Team1Id { get; set; }
+            public int Team2Id { get; set; }
+            public int WinningTeamId { get; set; }
       }
 }
