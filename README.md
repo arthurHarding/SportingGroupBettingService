@@ -9,3 +9,6 @@
  
  To check a bet:
  1. Call the GetOne method on the bet controller
+ 
+ Bet JSON Structure:
+ {"id":1,"dateTimePlaced":"2022-07-31T17:45:02.116+01:00","result":1,"totalProfitLoss":0,"open":false}
