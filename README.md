@@ -12,3 +12,8 @@
  
  Bet JSON Structure:
  {"id":1,"dateTimePlaced":"2022-07-31T17:45:02.116+01:00","result":1,"totalProfitLoss":0,"open":false}
+ 
+ The server starts up with one fixture and one bet in the database. Both have ID of 1
+ 
+ Bet URL: /Bet/GetOne?Id=1
+ Fixture URL: /Fixture/GetOne?Id=1
